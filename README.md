@@ -11,13 +11,13 @@ This dotfiles have my installation instruction for Arch Linux and the configurat
 Fetch dotfiles from github:
 
 ```
-git clone https://github.com/cristianpb/dotfiles ~/.dotfiles
+git clone https://github.com/Roostta/dotfilesss.git ~/.dotfiles
 ```
 
 Manually install files:
 
 ```
-stow vim
+chmod +x install.sh && ./install.sh
 ```
 
 Automatic install:
